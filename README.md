@@ -17,31 +17,31 @@ If a non-quadratic matrix was entered, then it is output in two styles: Vertical
 ## Styles
 
 * _Vertical snake_
-1 6 7
-2 5 8
-3 4 9
+<br>1 6 7
+<br>2 5 8
+<br>3 4 9
 
 * _Horizontal snake_
-1 2 3
-6 5 4
-7 8 9
+<br>1 2 3
+<br>6 5 4
+<br>7 8 9
 
 * _Clockwise spiral to center_
-1 2 3
-8 9 4
-7 6 5
+<br>1 2 3
+<br>8 9 4
+<br>7 6 5
 
 * _Counterclockwise spiral to center_
-1 8 7
-2 9 6
-3 4 5
+<br>1 8 7
+<br>2 9 6
+<br>3 4 5
 
 * _Clockwise spiral from center_
-9 2 3
-8 1 4
-7 6 5
+<br>9 2 3
+<br>8 1 4
+<br>7 6 5
 
 * _Couterclockwise spiral from center_
-9 8 7
-2 1 6
-3 4 5
+<br>9 8 7
+<br>2 1 6
+<br>3 4 5
